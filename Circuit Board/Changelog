@@ -1,0 +1,7 @@
+Version 7
+-Bei version 6 waren die Anschlüsse reset und gnd für die messschieber vertaucht
+
+Version 8
+- Quarz gegen Cstce 16 ausgetauscht -> anschwingzeit ist momentan bei 8 sec, genauigkeit wird nicht gebraucht
+
+TODO

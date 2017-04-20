@@ -1,0 +1,64 @@
+Partlist
+
+Exported from MesschieberV8.sch at 25.03.2016 13:21:32
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part      Value                         Device                        Package               Library                    Sheet
+
+C3        1uf                           CAP0805                       0805                  SparkFun-Capacitors        1
+C4        1uf                           CAP0805                       0805                  SparkFun-Capacitors        1
+C5        1uf                           CAP0805                       0805                  SparkFun-Capacitors        1
+C6        1uf                           CAP0805                       0805                  SparkFun-Capacitors        1
+C7        1uf                           CAP0805                       0805                  SparkFun-Capacitors        1
+C8        10uF                          10UF-20V-10%(TANT)            EIA3528               SparkFun-Capacitors        1
+C9        0.1uF                         CAP0805                       0805                  SparkFun                   2
+C10       0.1uF                         CAP0805                       0805                  SparkFun                   3
+C11       0.1uF                         CAP0805                       0805                  SparkFun                   4
+CSTCE16.0 RESONATORSMD                  RESONATORSMD                  RESONATOR-SMD         SparkFun                   1
+F2        Fuse 0.5a                     PTCFUSE-1812                  1812                  adafruit                   1
+J1        AVR_SPI_PRG_6PTH              AVR_SPI_PRG_6PTH              2X3                   SparkFun-Connectors        1
+JP1       M02LOCK                       M02LOCK                       1X02_LOCK             SparkFun-Connectors        2
+JP2       M02LOCK                       M02LOCK                       1X02_LOCK             SparkFun-Connectors        3
+JP3       M02LOCK                       M02LOCK                       1X02_LOCK             SparkFun-Connectors        3
+JP4       M02LOCK                       M02LOCK                       1X02_LOCK             SparkFun-Connectors        4
+JP5       M02LOCK                       M02LOCK                       1X02_LOCK             SparkFun-Connectors        2
+JP6       M02LOCK                       M02LOCK                       1X02_LOCK             SparkFun-Connectors        4
+JP7       USB-SMD-NS                    USB-SMD-NS                    USB-MINIB-NOSTOP      SparkFun-Connectors        1
+LED1                                    LEDSML0805                    SML0805               led                        1
+R1        10K                           RESISTOR0603-RES              0603-RES              SparkFun-Resistors         1
+R2        22                            RESISTOR0603                  0603                  SparkFun                   1
+R3        22                            RESISTOR0603                  0603                  SparkFun                   1
+R4        330                           RESISTOR0603                  0603                  SparkFun                   1
+R5        22k                           RESISTOR0603                  0603                  SparkFun                   3
+R6        3,3k                          RESISTOR0603                  0603                  SparkFun                   3
+R7        22k                           RESISTOR0603                  0603                  SparkFun                   2
+R8        3,3k                          RESISTOR0603                  0603                  SparkFun                   2
+R9        3,3k                          RESISTOR0603                  0603                  SparkFun                   2
+R10       3,3k                          RESISTOR0603                  0603                  SparkFun                   2
+R12       24                            RESISTOR0603                  0603                  SparkFun                   1
+R13       25K                           TRIM_EU-SM-42/43A             SM-42/43A             pot                        1
+R14       3,3k                          RESISTOR0603                  0603                  SparkFun                   3
+R15       3,3k                          RESISTOR0603                  0603                  SparkFun                   3
+R19       22k                           RESISTOR0603                  0603                  SparkFun                   4
+R20       3,3k                          RESISTOR0603                  0603                  SparkFun                   4
+R21       3,3k                          RESISTOR0603                  0603                  SparkFun                   4
+R22       3,3k                          RESISTOR0603                  0603                  SparkFun                   4
+R25       10K                           RESISTOR0603                  0603                  SparkFun                   1
+R26       10K                           RESISTOR                      0805                  SparkFun                   1
+R27       10K                           RESISTOR                      0805                  SparkFun                   1
+S1        SWITCH-MOMENTARY-2-SMD-1101NE SWITCH-MOMENTARY-2-SMD-1101NE TACTILE-SWITCH-1101NE SparkFun-Electromechanical 1
+U$1       ATMEGA32U4TQFP-44             ATMEGA32U4TQFP-44             TQFP44                SparkFun-DigitalIC         1
+U$2       TS12864A                      TS12864A                      TS12864               adafruit                   1
+U$3       TASTE_R3FTL6                  TASTE_R3FTL6                  TASTE_R3FTL6          andi                       2
+U$4       LM393                         LM393                         SO08                  SparkFun-AnalogIC          3
+U$5       LM393                         LM393                         SO08                  SparkFun-AnalogIC          2
+U$6       USB-A                         USB-A                         USB-A                 andi                       3
+U$7       USB-A                         USB-A                         USB-A                 andi                       2
+U$8       TASTE_R3FTL6                  TASTE_R3FTL6                  TASTE_R3FTL6          andi                       3
+U$9       LM393                         LM393                         SO08                  SparkFun-AnalogIC          4
+U$10      USB-A                         USB-A                         USB-A                 andi                       4
+U$11      TASTE_R3FTL6                  TASTE_R3FTL6                  TASTE_R3FTL6          andi                       4
+U$12      TASTE_R3FTL6                  TASTE_R3FTL6                  TASTE_R3FTL6          andi                       1
